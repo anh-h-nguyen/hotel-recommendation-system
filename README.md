@@ -1,2 +1,2 @@
-# hotel-recommender-system
+# Hotel Recommender System
 Hotel Recommender System
